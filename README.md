@@ -16,7 +16,7 @@ INSTALLATION REQUIERMENTS:
 
 4- Pycharm
 
-Steps to run demo test
+STEPS TO RUN THE DEMO:
 
 
 Clone this git repository
@@ -31,11 +31,13 @@ Import the cloned project in Pycharm (In Pycharm menu, navigate to File > Open o
 
 Modify following variables in the code if necessary
 
-Open config.ini and modify following if necessary,
+Open str.py and modify following if necessary,
 
 Appium Server listening host and port.
 
-self.driver = webdriver.Remote("http://localhost:4723/wd/hub",self.dc)
+driver = webdriver.Remote("http://localhost:4723/wd/hub", dc)
+
+Open config.ini and modify following if necessary,
 
 Path of the application (in case downloaded location is different)
 
