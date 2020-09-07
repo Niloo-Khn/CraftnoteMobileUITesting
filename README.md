@@ -4,7 +4,7 @@ NOTICE:
      
      - The project is based on Emulator, by using real device please check the divice name and its host and change them in config.ini file.
       
-      - The application should be dowload from attachment dont use any other version.
+      - The android application should be in 1.26.2 version.
       
 INSTALLATION REQUIERMENTS: 
 
@@ -24,8 +24,6 @@ Clone this git repository
 git clone
 
 Start Appium Server using Appium Desktop installed in your PC. The project expects the Appium Server to run on localhost:4723. If you run the server to different host and port. Please change the code.
-
-Its important to download the application from attachment. (Please change the code in case you change the download location)
 
 Import the cloned project in Pycharm (In Pycharm menu, navigate to File > Open or "Open" if no projects are open)
 
