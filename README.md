@@ -1,19 +1,25 @@
 # CraftnoteMobileUITesting
 
 NOTICE: 
-      - The project is based on Emulator, by using real device please check the divice name and its host and change them in config.ini file.
+     
+     - The project is based on Emulator, by using real device please check the divice name and its host and change them in config.ini file.
+      
       - The application should be dowload from attachment dont use any other version.
       
 INSTALLATION REQUIERMENTS: 
+
 1- Appium Server 
+
 2- Android studio
+
 3- Python3
+
 4- Pycharm
 
 Steps to run demo test
 Clone this git repository
 
-#git clone
+git clone
 Start Appium Server using Appium Desktop installed in your PC. The project expects the Appium Server to run on localhost:4723. If you run the server to different host and port. Please change the code.
 
 Its important to download the application from attachment. (Please change the code in case you change the download location)
